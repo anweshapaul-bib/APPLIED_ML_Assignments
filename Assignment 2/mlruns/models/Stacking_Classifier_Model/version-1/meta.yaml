@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1708344449464
+current_stage: None
+description: null
+last_updated_timestamp: 1708344449464
+name: Stacking_Classifier_Model
+run_id: 0f7d0f9c00c54ef19d96b41df59adb52
+run_link: null
+source: file:///Users/paulanwesha01/Documents/2_Sem4/Applied%20ML/Assignment%202/mlruns/0/0f7d0f9c00c54ef19d96b41df59adb52/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:///Users/paulanwesha01/Documents/2_Sem4/Applied%20ML/Assignment%202/mlruns/0/0f7d0f9c00c54ef19d96b41df59adb52/artifacts/sklearn-model
+user_id: null
+version: 1
