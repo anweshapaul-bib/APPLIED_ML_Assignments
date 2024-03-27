@@ -1,6 +1,6 @@
-# Spam Classification with Flask
+# Containerization & Continuous Integration 
 
-This project is an implementation of a Flask web application for classifying text as spam or not spam using a trained Support Vector Machine (SVM) model. The application provides an API endpoint `/classify` that accepts a JSON request with a `sentence` key, and returns a JSON response indicating whether the sentence is classified as spam or not, along with the propensity score.
+This assignment is an implementation of a Flask web application for classifying text as spam or not spam using a trained Support Vector Machine (SVM) model. The application provides an API endpoint `/classify` that accepts a JSON request with a `sentence` key, and returns a JSON response indicating whether the sentence is classified as spam or not, along with the propensity score.
 
 ## Prerequisites
 
