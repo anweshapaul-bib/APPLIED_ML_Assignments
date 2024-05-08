@@ -1,4 +1,4 @@
-# Assignment 3: Testing & Model Serving
+# Testing & Model Serving
 
 ## Introduction
 The assignment consists of two main tasks: 
